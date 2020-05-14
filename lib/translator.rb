@@ -15,5 +15,5 @@ emoticons.each do |meaning, value|
   emoticon_lib
 end
 
-
+def get_japanese_emoticon(emoticon_file = './lib/emoticons.yml', emoticon)
 
